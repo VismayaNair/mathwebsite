@@ -203,7 +203,8 @@ vText.value = ""+vVal;
 ```
 ## OUTPUT:
 
--- include your output screenshots ---
+
+![Screenshot (33)](https://user-images.githubusercontent.com/93427210/149669198-96a1567b-b842-4f67-8650-7a2e402edaf2.png)
 
 ## Result:
 
