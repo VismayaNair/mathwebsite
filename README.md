@@ -35,7 +35,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM :
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -200,7 +200,7 @@ vText.value = ""+vVal;
 <footer> <p class="by"><B>Developed by : Vismaya S </B></p></footer>
 </body>
 </html>
-
+```
 ## OUTPUT:
 
 -- include your output screenshots ---
